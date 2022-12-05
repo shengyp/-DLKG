@@ -32,7 +32,7 @@ Table of Contents
 
 
 ## Document_Links
-1. Michihiro Yasunaga, Jure Leskovec, and Percy Liang∗. **LinkBERT: Pretraining Language Models with Document Links**. IJCAI 2022. [[paper]](https://arxiv.org/pdf/2203.15827.pdf) [[Project]](https://github.com/michiyasunaga/LinkBERT) [[Report]](https://mp.weixin.qq.com/s/tc_IG5TXTgTpjLdXwxSevw) 
+1. Michihiro Yasunaga, Jure Leskovec, and Percy Liang∗. **LinkBERT: Pretraining Language Models with Document Links**. IJCAI 2022. [[Paper]](https://arxiv.org/pdf/2203.15827.pdf) [[Project]](https://github.com/michiyasunaga/LinkBERT) [[Report]](https://mp.weixin.qq.com/s/tc_IG5TXTgTpjLdXwxSevw) 
 
 
 
