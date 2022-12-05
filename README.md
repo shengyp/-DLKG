@@ -22,7 +22,7 @@ Table of Contents
 1. Ying Shen, Ning Ding, Hai-Tao Zheng, Yaliang Li, and Min Yang. **Everything You wanted to Know about Smart Agriculture**. Arxiv 2022. [[Paper]](https://arxiv.org/abs/2201.04754v1) 
 
 
-2. 杨睿, 王应宽, 王宝济. **基于WoS文献计量学和知识图谱的农业机器人进展与趋势**. 农业工程学报 2022. [[Paper]](http://www.tcsae.org/nygcxb/article/abstract/20220106?st=search)
+<!-- 2. 杨睿, 王应宽, 王宝济. **基于WoS文献计量学和知识图谱的农业机器人进展与趋势**. 农业工程学报 2022. [[Paper]](http://www.tcsae.org/nygcxb/article/abstract/20220106?st=search) -->
 
 
 
@@ -39,11 +39,6 @@ Table of Contents
 ## Downstream_Applications
 1. Maryam Tabar, Dongwon Lee, David P. Hughes, Amulya Yadav. **Mitigating Low Agricultural Productivity of Smallholder Farms in Africa Time-Series Forecasting for Environm**. AAAI 2022. [[Paper]](http://amulyayadav.com/Papers/iaai22.pdf)
 
-
-2. Vishal Vinod, Vipul Gaurav, Tushar Sharma, Savita Choudhary. **Mining Intelligent Patterns Using Svac For Precision Agriculture And Optimizing Irrigation (Student Abstract)**. AAAI 2022. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17951)
-
-
-3. Dominic Liao-McPherson, Efe C. Balta, Ryan Wüest, Alisa Rupenyan, John Lygeros. **A GNN-RNN Approach for Harnessing Geospatial and Temporal Information Application to Crop Yield**. Arxiv 2021. [[Paper]](https://arxiv.org/abs/2111.08900)
 
 
 <!-- 4. 张善文, 王振, 王祖良. **结合知识图谱与双向长短时记忆网络的小麦条锈病预测**. 农业工程学报 2020. [[Paper]](http://www.tcsae.org/nygcxb/article/abstract/20201221?st=search) -->
